@@ -1,4 +1,4 @@
-# README for Hi/Max Real Estate & Houses Web Page
+# Hi/Max Real Estate & Houses Web Page
 
 ## Overview
 
